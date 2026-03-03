@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Borboleta azul</title>
+</head>
+<body style="background-color: black; color: white;">
+ <h1>Borboleta azul</h1>
+  <img style="width: 175px;" src="https://www.petz.com.br/blog/wp-content/uploads/2020/01/curiosidades-sobre-borboletas.jpg" alt="Borboleta azul">
+   <p style="padding: 25px 75px;"> Morpho é um gênero de borboletas predominantemente azuis, classificadas na família Nymphalidae, que vivem nas florestas tropicais da América central e da América do Sul: Brasil, Costa Rica, Guiana e Venezuela mas também no México. A aparência distinta das borboletas torna-as, em certa parte, facilmente reconhecíveis devido ao conspícuo e iridescente azul-metálico originado não por pigmentação mas sim pela reflexão da luz de um modo particular visto em várias espécies. As borboletas morpha podem ir de uma envergadura de pouco mais de 7 cm até a uns impressionantes 20 cm. </p>
+    <a target="_black" href="https://pt.wikipedia.org/wiki/Morpho_(g%C3%A9nero)"> Saiba mais sobre as borboletas morpha no wikipedia</a>
+   <br><span>feito no dia 28 de fervereiro de 2026 em 10:29 da manhã no horario de brasilia</span>
+</body>   
+        </html>
+    </DOCTYPE html>
